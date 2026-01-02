@@ -55,7 +55,6 @@ I enjoy breaking complex problems into simple, secure, and scalable solutions �
       </ul>
       <p align="center"><i>React • Django • Security</i></p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI-Enabled App</h3>
       <p align="center">Web app enhanced with AI-powered features.</p>
